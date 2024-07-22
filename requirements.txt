@@ -1,2 +1,4 @@
 joblib
 scikit-learn
+pybase64
+pillow
