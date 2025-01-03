@@ -2,7 +2,7 @@ import streamlit as st
 import joblib 
 import numpy as np
 from PIL import Image
-import base64
+import base64#
 
 #loading the trained model
 path='smottomek.pkl'
